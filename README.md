@@ -1,4 +1,4 @@
-# Harsh Gupta
+# Harsh Kumar Gupta
 
 ![Header Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
@@ -12,58 +12,60 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** passionate about **MERN Stack development** and **AI/ML technologies**. A recent B.Tech graduate in Artificial Intelligence & Machine Learning from **USAR (2021–2025)**, I love building responsive, user-centric applications and solving real-world problems using intelligent systems.
+I'm a Software Engineer with a strong foundation in Data Structures & Algorithms (DSA), and a deep interest in MERN Stack development and AI/ML applications. As a recent B.Tech graduate in Artificial Intelligence & Machine Learning from USAR (2021–2025), I love solving complex algorithmic problems, building intelligent, scalable web applications, and applying AI to real-world challenges.
+
 
 ---
 
-### 🚀 What I’m Currently Focusing On
-- 🔧 Building full-stack web apps with React and Node.js
-- 🧠 Creating AI-powered tools and chatbots using NLP
-- 🎨 Designing sleek and functional UI/UX interfaces
-- 🤝 Leading and collaborating in tech-driven teams
+## 📊 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/harshgupta-tech?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🤖 AI/ML & LLM Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter" alt="AI/ML Technologies"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" width="48" height="48" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" width="48" height="48" alt="Pandas"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="LangChain Logo"/> 
+  <img src="https://avatars.githubusercontent.com/u/16251480?s=200&v=4" width="48" height="48" alt="LangGraph Logo"/>
+</p>
+
+---
+
+## 🌐 Web Development (MERN Stack & More)
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
-      <h3>💻 Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,python,cpp,java,c,php,go&perline=4" />
+    <td align="center" width="33%">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=js,python,cpp,javascript,&perline=4" />
     </td>
-    <td align="center" width="25%">
-      <h3>🌐 Frontend Development</h3>
-      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,redux,angular&perline=4" />
+    <td align="center" width="33%">
+      <h3>🖥 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,redux&perline=4" />
     </td>
-    <td align="center" width="25%">
-      <h3>⚙️ Backend & Database</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&perline=3" />
+    <td align="center" width="33%">
+      <h3>🔧 Backend & DB</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,appwrite&perline=3" />
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
       <h3>🛠️ Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,linux,docker&perline=4" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&perline=7" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🤖 AI/ML & Data Science Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" width="48" height="48" />
-</p>
-
----
-
 ## 💼 Experience
-
-### 🔹 **AI Monitoring & Maintenance** - Incrementors Inside  
-*June 2025 (1 Month) | Delhi, India*
 
 ### 🔹 **AI Intern** - Prodigal AI  
 *Sep 2024 – Dec 2024 (4 Months) | Delhi, India*  
@@ -71,15 +73,18 @@ I'm a **Software Engineer** passionate about **MERN Stack development** and **AI
 - Delivered AI-driven solutions with smooth user experience  
 - Completed all masterclasses and project assignments with distinction  
 
-### 🔹 **Frontend Developer Intern** - IBM  
-*Jul 2024 – Aug 2024 (2 Months) | Remote*  
-- Developed user interfaces using React and modern frontend stacks  
-- Contributed to frontend architecture of internal tools  
+###🔹 AI Intern (Chatbot & Generative AI) – IBM
+*July 2024 – August 2024 (2 Months) | Remote
+-Developed a functional AI-powered chatbot using NLP and Python
+-Gained hands-on experience with generative AI, transformers, and foundation models
+-Learned and applied prompt engineering techniques to improve model output
+-Acquired working knowledge of transformer-based models and foundation models in AI
 
-### 🔹 **Web Designer** - Xero Technologies  
-*Dec 2020 – Feb 2021 (3 Months) | Delhi, India*  
-- Designed and deployed responsive web pages for business clients  
-- Supported frontend updates and UI enhancements  
+###🔹 Frontend Developer Intern – Letude
+*July 2022 – August 2022 (2 Months) | Remote
+-Built and styled responsive UI components using React.js, Tailwind CSS, and JavaScript
+-Collaborated with designers and backend developers to develop clean, user-focused interfaces
+-Improved website performance, responsiveness, and cross-browser compatibility
 
 ---
 
@@ -91,27 +96,7 @@ I'm a **Software Engineer** passionate about **MERN Stack development** and **AI
 
 ---
 
-## 📜 Certifications
-
-- ✅ Google AI Essentials  
-- ✅ Build an AI Text Summarizer (Project-Based)  
-- ✅ Web Development Fundamentals  
-- ✅ Prompt Design in Vertex AI (Skill Badge)  
-- ✅ Artificial Intelligence Fundamentals  
-
----
-
-## 🏅 Highlights & Recognition
-
-- 🧠 **Collaborator** – Efficient in team collaboration and communication  
-- 🔥 **Hat Trick** – Achieved milestones across multiple domains  
-- 🚀 **Sojourner** – Tech explorer across stacks and frameworks  
-- 🎯 **Motivator** – A self-starter and mentor in peer groups  
-- 🌟 **Endeavourer** – Committed to continuous learning and growth  
-
----
-
-## 📊 GitHub & LeetCode Stats
+## 📈 GitHub & Contribution Stats
 
 <div align="center">
 
@@ -125,9 +110,6 @@ I'm a **Software Engineer** passionate about **MERN Stack development** and **AI
 ### 🏆 GitHub Profile Trophy  
 <img src="https://github-profile-trophy.vercel.app/?username=harshgupta-tech&theme=radical&margin-w=4" />
 
-### 💻 LeetCode Progress  
-<img src="https://leetcard.jacoblin.cool/harshgupta-tech?theme=dark&font=Nunito&ext=contest" />
-
 ### 📊 Contribution Graph  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgupta-tech&theme=react-dark&bg_color=20232a&hide_border=true" />
 
@@ -135,13 +117,10 @@ I'm a **Software Engineer** passionate about **MERN Stack development** and **AI
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
-- 💼 [Portfolio Website](https://your-portfolio-link.com)
 - 📫 Email: harshgupta.dev@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/harshgupta-tech)
-- 📝 [Blog](https://your-blog-link.com)
-- 💻 [Upwork/Freelancing](https://www.upwork.com/)
+- 💼 [LinkedIn]([https://linkedin.com/in/harshgupta-tech](https://www.linkedin.com/in/harsh-kumar-gupta-6b3130213/))
 - 🌐 [Twitter/X](https://twitter.com/yourhandle)
 
 ---
@@ -155,19 +134,10 @@ I'm a **Software Engineer** passionate about **MERN Stack development** and **AI
 
 ---
 
-## 📈 Career Goals
-
-- Contribute to impactful AI/ML and web projects  
-- Lead development teams and mentor junior devs  
-- Continuously upskill in cutting-edge technologies  
-- Make meaningful contributions to open-source projects
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshgupta-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <strong>⭐ Made with ❤️ by Harsh Gupta</strong>
+  <strong>⭐ Made with ❤️ by Harsh Kumar Gupta</strong>
 </p>
